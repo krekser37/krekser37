@@ -1,11 +1,9 @@
-<div align="center">
 <h1>
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EF559&width=800&lines=Hi+there%2C+I'm+Ekaterina.+Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=80D31C&width=500&lines=Hi+there%2C+I'm+Ekaterina.+Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=krekser37&style=flat-square&color=brightgreen" alt=""/>
-</div>
-<div  >
+
 
 ### :woman_technologist: About Me :
 I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
@@ -19,6 +17,13 @@ I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - :mailbox:How to reach me: [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Krekser37) 
 
 ---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> 
