@@ -18,13 +18,6 @@ I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> 
   <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=blue"> 
@@ -42,23 +35,12 @@ I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=#F7DF1E"> 
   <img src="https://img.shields.io/badge/Visual Studio Code-696969?style=for-the-badge&logo=Visual Studio Code&logoColor=#F7DF1E"> 
 
-</div>
-
 ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krekser37&theme=merko&border_radius=5.6)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krekser37&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
-<a href="https://github.com/krekser37">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krekser37&theme=vision-friendly-dark" alt="most used languages"/>
-</a>
-
-<a href="https://github.com/krekser37">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krekser37&theme=dark" alt="most used languages"/>
-</a>
-<a href="https://github.com/krekser37">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=krekser37&show_icons=true&&count_private=true&theme=radical" alt="Kamil's GitHub stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
