@@ -4,6 +4,13 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=krekser37&style=flat-square&color=brightgreen" alt=""/>
 
+---
+
+### :woman_technologist: How to reach me :
+
+[<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Krekser37) 
+
+---
 
 ### :woman_technologist: About Me :
 I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
@@ -14,8 +21,6 @@ I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: Leisure time I spend with my family.
 
-- :mailbox:How to reach me: [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Krekser37) 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -24,9 +29,11 @@ I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krekser37&theme=merko&border_radius=5.6)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krekser37&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krekser37&layout=compact&theme=merko)](https://github.com/krekser37/github-readme-stats)
+</div>
