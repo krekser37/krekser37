@@ -6,13 +6,13 @@
 
 
 ### :woman_technologist: About Me :
-I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
-- :telescope: A year ago I quit my job to devote myself to frontend development. I chose this direction because I really like user-friendly, responsive interfaces, without bugs.
+- :telescope: Last year I quit my job to devote myself to frontend development. I chose this direction because I really like user-friendly, responsive interfaces, without bugs.
 
-- :seedling: I have been studying at Yandex.Workshop for more than a year on the Web Developer plus course. I also try to get information from all sorts of additional sources.
+- :seedling: I have been studying at Yandex.Workshop for more than one year on the Web Developer plus course. I also try to get information from all kinds of additional sources.
 
-- :zap: In my free time, I spend with my family.
+- :zap: Leisure time I spend with my family.
 
 - :mailbox:How to reach me: [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Krekser37) 
 
