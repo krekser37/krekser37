@@ -1,6 +1,6 @@
 <h1>
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=80D31C&width=500&lines=Hi+there%2C+I'm+Ekaterina.+Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=80D31C&width=700&lines=Hi+there%2C+I'm+Ekaterina.+Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=krekser37&style=flat-square&color=brightgreen" alt=""/>
 
@@ -27,6 +27,6 @@ I am Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krekser37&theme=merko&border_radius=5.6)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krekser37&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krekser37&layout=compact&theme=merko)](https://github.com/krekser37/github-readme-stats)
