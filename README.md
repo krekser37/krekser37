@@ -25,9 +25,8 @@ I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :woman_technologist: Learning project:
 * <a href="https://github.com/krekser37/Soda.git" target="_blank">Проект Soda</a>
-* [Проект Soda](https://github.com/krekser37/Soda.git)
-* [Проект Mesto](https://github.com/krekser37/mesto-project.git)
-* [Проект St_Burgers](https://github.com/krekser37/react-burger.git)
+* <a href="https://github.com/krekser37/mesto-project.git" target="_blank">Проект Mesto</a>
+* <a href="https://github.com/krekser37/react-burger.git" target="_blank">Проект St_Burgers</a>
 
 ---
 
