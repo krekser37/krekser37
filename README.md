@@ -24,10 +24,12 @@ I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :woman_technologist: Learning project:
-* <a href="https://github.com/krekser37/Soda.git" target="_blank">Проект Soda</a>
-* <a href="https://github.com/krekser37/mesto-project.git" target="_blank">Проект Mesto</a>
 * <a href="https://github.com/krekser37/react-burger.git" target="_blank">Проект St_Burgers</a>
+* <a href="https://github.com/krekser37/mesto-project.git" target="_blank">Проект Mesto</a>
+* <a href="https://github.com/krekser37/Soda.git" target="_blank">Проект Soda</a>
+* <a href="https://github.com/krekser37/my-russian-travel.git" target="_blank">Проект Путешествие по России</a>
 
+https://github.com/krekser37/my-russian-travel.git
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
