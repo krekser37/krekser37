@@ -23,6 +23,14 @@ I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
+### :woman_technologist: Learning project:
+* <a href="https://github.com/krekser37/Soda.git" target="_blank">Проект Soda</a>
+* [Проект Soda](https://github.com/krekser37/Soda.git)
+* [Проект Mesto](https://github.com/krekser37/mesto-project.git)
+* [Проект St_Burgers](https://github.com/krekser37/react-burger.git)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/SASS-696969?style=for-the-badge&logo=SASS&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/BEM-696969?style=for-the-badge&logo=BEM&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/JavaScript-696969?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/React-696969?style=for-the-badge&logo=React&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/React Router-696969?style=for-the-badge&logo=React Router&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/Redux-696969?style=for-the-badge&logo=Redux&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/Webpack-696969?style=for-the-badge&logo=Webpack&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-696969?style=for-the-badge&logo=TypeScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/npm-696969?style=for-the-badge&logo=npm&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/node.js-696969?style=for-the-badge&logo=node.js&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/MySQL-696969?style=for-the-badge&logo=MySQL&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/Visual Studio Code-696969?style=for-the-badge&logo=Visual Studio Code&logoColor=#F7DF1E"> 
 
